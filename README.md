@@ -1,2 +1,2 @@
-<h2 align="center"> RATA-TELEGRAM </h2>
+<h4 align="center"> RATA-TELEGRAM </h4>
 
