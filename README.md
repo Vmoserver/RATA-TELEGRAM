@@ -1,2 +1,2 @@
-<h1 align="center"> RATA-TELEGRAM </h1>
-> hola
+<h2 align="center"> RATA-TELEGRAM </h2>
+
